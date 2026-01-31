@@ -200,5 +200,5 @@ streamlit run app.py
 
 **Perarasan D**
 - GitHub: [@Perarasan](https://github.com/Perarasan247)
-- LinkedIn: [linkedin.com/in/Pearasan](https://www.linkedin.com/in/perarasan/)
+- LinkedIn: [linkedin.com/in/Perarasan](https://www.linkedin.com/in/perarasan/)
 
