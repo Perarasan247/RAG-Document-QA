@@ -1,0 +1,66 @@
+############################
+# Python / General
+############################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.swp
+
+############################
+# Virtual Environment
+############################
+RAG/
+venv/
+.env/
+.env.*
+
+############################
+# Jupyter
+############################
+.ipynb_checkpoints/
+
+############################
+# OS / Editor files
+############################
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+############################
+# Data (Raw & Large Files)
+############################
+data/raw/
+data/processed/
+
+############################
+# Vector Store / Indexes
+############################
+vectorstore/
+*.faiss
+*.pkl
+
+############################
+# ML / Experiment Artifacts
+############################
+mlruns/
+models/
+checkpoints/
+
+############################
+# Secrets / API Keys
+############################
+*.key
+*.pem
+*.secret
+config.yaml
+secrets.yaml
+
+############################
+# Temporary / Demo Files
+############################
+demo_outputs/
+temp/

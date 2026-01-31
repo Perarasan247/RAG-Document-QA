@@ -1,0 +1,30 @@
+# Core dependencies
+streamlit==1.31.0
+fastapi==0.109.0
+uvicorn==0.27.0
+python-multipart==0.0.6
+
+# Document Processing
+PyMuPDF==1.23.21
+pandas==2.2.0
+openpyxl==3.1.2
+ebooklib==0.18
+beautifulsoup4==4.12.3
+
+# LangChain
+langchain==0.1.6
+langchain-community==0.0.19
+
+# Embeddings & Vector Store
+sentence-transformers==2.3.1
+faiss-cpu==1.7.4
+
+# LLM - CPU optimized
+transformers==4.37.2
+torch==2.2.0
+accelerate==0.26.1
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.6.0
+tqdm==4.66.1
